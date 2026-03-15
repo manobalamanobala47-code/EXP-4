@@ -50,7 +50,7 @@ Rectifier with filter
 WAVEFORM:
 ![img alt](https://github.com/manobalamanobala47-code/EXP-4/blob/main/Screenshot%202026-03-15%20232049.png)
 
-![img alt]()
+![img alt](https://github.com/manobalamanobala47-code/EXP-4/blob/main/Screenshot%202026-03-15%20232547.png)
 
 RESULT:
 
