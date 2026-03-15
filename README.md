@@ -48,7 +48,9 @@ Rectifier with filter
 ![img alt](https://github.com/manobalamanobala47-code/EXP-4/blob/main/WhatsApp%20Image%202026-03-15%20at%2011.37.25%20PM.jpeg)
 
 WAVEFORM:
+![img alt](https://github.com/manobalamanobala47-code/EXP-4/blob/main/Screenshot%202026-03-15%20232049.png)
 
+![img alt]()
 
 RESULT:
 
