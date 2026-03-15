@@ -45,6 +45,7 @@ Rectifier without filter
 ![img alt](https://github.com/manobalamanobala47-code/EXP-4/blob/main/WhatsApp%20Image%202026-03-15%20at%2011.36.58%20PM.jpeg)
 TABULAR COLUMN
 Rectifier with filter
+![img alt](https://github.com/manobalamanobala47-code/EXP-4/blob/main/WhatsApp%20Image%202026-03-15%20at%2011.37.25%20PM.jpeg)
 
 WAVEFORM:
 
